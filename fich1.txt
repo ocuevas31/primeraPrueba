@@ -1,1 +1,2 @@
 Contenido del fich1.txt para pruebas con GIT
+cambio al master añadir una linea
