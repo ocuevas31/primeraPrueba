@@ -1,0 +1,1 @@
+Contenido del fich1.txt para pruebas con GIT
